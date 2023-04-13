@@ -3,7 +3,7 @@
 - 📲 Desarrollo apps para Android utilizando Kotlin y Jetpack Compose.
 - 📖 Estoy aprendiendo a desarrollar apps para IOS.
 - 👨‍💻 Actualmente estoy buscando empleo.
-- 📫 Contacta conmigo: -> [Linkedin](https://www.linkedin.com/in/diego-rodriguez-barcala-6b7b92245/) | [Email](mailto:diegorodriguezbarcala@gmail.com)
+- 📫 Contacta conmigo: -> [LinkedIn](https://www.linkedin.com/in/diego-rodriguez-barcala-6b7b92245/) | [Email](mailto:diegorodriguezbarcala@gmail.com)
 
 
 ## PROYECTOS
