@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola, soy Diego 👋
 
-<!--
-**DiegoRodriguez3D/DiegoRodriguez3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📲 Desarrollo apps para Android utilizando Kotlin y Jetpack Compose.
+- 📖 Estoy aprendiendo a desarrollar apps para IOS.
+- 👨‍💻 Actualmente estoy buscando empleo.
+- 📫 Contacta conmigo: -> [Linkedin](https://www.linkedin.com/in/diego-rodriguez-barcala-6b7b92245/) | [Email](diegorodriguezbarcala@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+### - Quotes
+  <p>App tipo red social que permite al usuario encontrar citas textuales creadas por otros usuarios con posibilidad de dar like. También permite al usuario crear sus propios post, así como editarlos o borrarlos. </p>
+  
+  <p>Utiliza Kotlin y Jetpack Compose, el patrón MVVM, arquitectura limpia e inyección de dependencias (Dagger hilt). Para el backend utiliza Firebase (Authentication, Firestore Database y Storage)</p>
+
+
+  
+### - El Tiempo
+  <p>App de información meteorológica que utiliza la ubicación del dispositivo para mostrar los datos del clima en esa zona.</p>
+  
+  <p>Utiliza Kotlin y Jetpack Compose, el patrón MVVM, arquitectura limpia e inyección de dependencias (Dagger hilt). La información la recibe a través de una API utilizando Retrofit.</p>
+  
