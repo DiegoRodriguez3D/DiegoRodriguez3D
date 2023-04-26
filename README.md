@@ -22,7 +22,7 @@
 <hr class="rounded">
   
 ### - [Calculadora](https://github.com/DiegoRodriguez3D/Calculadora#readme)
-  <p>Calculadora con interfaz moderna que permite al usuario realizar operaciones básicas.</p>
+  <p>Calculadora que permite al usuario realizar operaciones matemáticas básicas. La interfaz se ajusta automáticamente al Modo Oscuro del dispositivo.</p>
   <p>Utiliza Kotlin, Jetpack Compose y el patrón MVVM.</p>
   
   <hr class="rounded">
