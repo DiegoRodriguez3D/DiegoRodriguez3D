@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/69866476/235891420-9f2a3b8f-faf0-4366-8540-3b10815f228d.png)
+
+
 ## Hola, soy Diego 👋
 
 - 📲 Desarrollo apps para Android utilizando Kotlin y Jetpack Compose.
