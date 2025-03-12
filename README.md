@@ -1,4 +1,6 @@
 ## Hola, soy Diego 👋
+- Desarrollo backend .NET
+- Desarrollo frontend Angular
 
 - 💻 Desarrollo mobile.
 - 📲 Apps nativas iOS con Swift y SwiftUI
