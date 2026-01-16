@@ -11,4 +11,4 @@ Soy un **Desarrollador de Software Full Stack**. Me especializo en trasladar ló
 * Experiencia sólida en desarrollo móvil nativo (iOS/SwiftUI & Android/Kotlin).
 * Desarrollo de arquitecturas empresariales con .NET.
 
-📫 **Contacta conmigo:** [LinkedIn](TU_ENLACE_LINKEDIN) | [Email](mailto:diegorodriguezbarcala@gmail.com) | [Web](https://portfolio-six-alpha-54.vercel.app)
+📫 **Contacta conmigo:** [LinkedIn](TU_ENLACE_LINKEDIN) | [Email](mailto:diegorodriguezbarcala@gmail.com) | [Web](http://pg0wgo4c84gowooogc4gsc08.91.99.192.36.sslip.io)
