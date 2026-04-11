@@ -10,7 +10,8 @@ Soy un **Desarrollador de Software Mobile & Full Stack**. Me especializo en tras
 
 📱 **Background Adicional**
 * Experiencia sólida en desarrollo móvil nativo y multiplataforma.
-* Desarrollo de arquitecturas empresariales con .NET y Python
+* Desarrollo de arquitecturas SaaS con IA con Python.
+* Desarrollo de arquitecturas empresariales con .NET
 * Desarrollo de interfaces web reactivas con Angular y Svelte/SvelteKit
 
 🤖 **IA**
