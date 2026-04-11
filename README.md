@@ -5,8 +5,8 @@ Soy un **Desarrollador de Software Mobile & Full Stack**. Me especializo en tras
 🛠 **Tech Stack Principal**
 * **Mobile:** Swift/SwiftUI, Kotlin/Jetpack Compose, Flutter, Ionic, Capacitor
 * **Backend:** Python (FastAPI, Odoo), .NET (ASP.NET Core), SQL (PostgreSQL, SQL Server, SQLite, PocketBase, Qdrant).
-* **Frontend:** Svelte / SvelteKit, Angular, TypeScript, Tailwind CSS.
-* **Cloud & Tools:** Azure, Docker, Git.
+* **Frontend:** Svelte / SvelteKit, Angular, Bootstrap, Tailwind CSS.
+* **Cloud & Tools:** Azure, Coolify, Vercel, Render, Docker, Git.
 
 📱 **Background Adicional**
 * Experiencia sólida en desarrollo móvil nativo y multiplataforma.
