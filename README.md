@@ -1,21 +1,14 @@
 ### Hola, soy Diego 👋
 
-Soy un **Desarrollador de Software Mobile & Full Stack**. Me especializo en trasladar lógica de negocio compleja (Backend) a interfaces modernas y reactivas (Frontend) tanto en web como en móvil.
+Soy *Desarrollador de Software Backend & Full Stack*, especializado en el diseño de APIs escalables, arquitecturas empresariales y plataformas SaaS. Mi foco principal está en la construcción de servicios robustos con Python y .NET, conectándolos con interfaces web modernas y reactivas.
 
-🛠 **Tech Stack Principal**
-* **Mobile:** Swift/SwiftUI, Kotlin/Jetpack Compose, Flutter, Ionic, Capacitor
-* **Backend:** Python (FastAPI, Odoo), .NET (ASP.NET Core), SQL (PostgreSQL, SQL Server, SQLite, PocketBase, Qdrant).
-* **Frontend:** Svelte / SvelteKit, Angular, Bootstrap, Tailwind CSS.
-* **Cloud & Tools:** Azure, Coolify, Vercel, Render, Docker, Git.
+Aporto una visión integral del ciclo de desarrollo: desde el modelado de bases de datos y la integración de modelos de IA, hasta el despliegue en infraestructuras Cloud y la adaptación de soluciones a entornos móviles.
 
-📱 **Background Adicional**
-* Experiencia sólida en desarrollo móvil nativo y multiplataforma.
-* Desarrollo de arquitecturas SaaS con IA con Python.
-* Desarrollo de arquitecturas empresariales con .NET
-* Desarrollo de interfaces web reactivas con Angular y Svelte/SvelteKit
-
-🤖 **IA**
-* Herramientas de IA de programación: Claude Code, Antigravity, Cursor, Codex.
-* Implementación de Agentes IA en entornos SaaS con APIs Gemini, OpenAI, Claude. Uso de bases de datos vectoriales y gestión de contexto. Automatizaciones con n8n.
+## 🛠 Tech Stack Core
+*Backend*: Python (FastAPI, Odoo), .NET (C#, ASP.NET Core), PostgreSQL, SQL Server.
+*Frontend*: SvelteKit, Angular, TypeScript, Tailwind CSS.
+*DevOps & Cloud*: Docker, Azure, Linux/VPS, Git.
+*Mobile*: SwiftUI, Kotlin, Jetpack, Ionic, Capacitor.
+*IA*: Agentes IA (OpenAI/Gemini/Claude APIs, Qdrant, n8n.
 
 📫 **Contacta conmigo:** [LinkedIn](TU_ENLACE_LINKEDIN) | [Email](mailto:diegorodriguezbarcala@gmail.com) | [Web](https://diego-rodriguez.es)
