@@ -1,18 +1,20 @@
-### Hola, soy Diego 👋
+## Hola, soy Diego 👋
 
-Soy *Desarrollador de Software Backend & Full Stack*, especializado en el diseño de APIs escalables, arquitecturas empresariales y plataformas SaaS. Mi foco principal está en la construcción de servicios robustos con Python y .NET, conectándolos con interfaces web modernas y reactivas.
+Desarrollador **.NET Full Stack**. Construyo aplicaciones empresariales con **C#, ASP.NET Core y Angular** sobre SQL Server y Azure.
 
-Aporto una visión integral del ciclo de desarrollo: desde el modelado de bases de datos y la integración de modelos de IA, hasta el despliegue en infraestructuras Cloud y la adaptación de soluciones a entornos móviles.
+- 🔧 Me centro en APIs REST bien diseñadas, arquitectura limpia y código mantenible.
+- 🤖 Integro IA en aplicaciones: APIs de OpenAI, Gemini y Claude, bases vectoriales (Qdrant) y automatización con n8n.
+- 📍 Galicia, España
 
-#### 🛠 Tech Stack Core
-Backend: Python (FastAPI, Odoo), .NET (C#, ASP.NET Core), PostgreSQL, SQL Server.
+### 🛠 Stack principal
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, LINQ, SQL Server
+- **Frontend:** Angular, TypeScript, RxJS, Angular Material
+- **Cloud y DevOps:** Azure, Docker, Git, Linux
 
-Frontend: SvelteKit, Angular, TypeScript, Tailwind CSS.
+### 🧰 También he trabajado con
+- **Python:** FastAPI, Odoo · PostgreSQL
+- **Web:** SvelteKit, Tailwind CSS
+- **Móvil:** SwiftUI, Kotlin (Jetpack), Ionic, Capacitor
 
-DevOps & Cloud: Docker, Azure, Linux/VPS, Git.
-
-Mobile: SwiftUI, Kotlin, Jetpack, Ionic, Capacitor.
-
-IA: Agentes IA (OpenAI/Gemini/Claude APIs, Qdrant, n8n.
-
-📫 **Contacta conmigo:** [LinkedIn](TU_ENLACE_LINKEDIN) | [Email](mailto:diegorodriguezbarcala@gmail.com) | [Web](https://diego-rodriguez.es)
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/diego-rodriguez-barcala-6b7b92245/) · [Email](mailto:diegorodriguezbarcala@gmail.com) · [Web](https://diego-rodriguez.es)
